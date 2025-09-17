@@ -10,7 +10,7 @@ public class Project1 {
 
     public static void skrivUtArray(String[] ord) {
         for (String element : ord) {
-            System.out.println(element);
+            System.out.print(element + " ");
         }
     }
 }
